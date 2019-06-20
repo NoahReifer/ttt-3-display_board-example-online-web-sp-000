@@ -7,4 +7,3 @@ def display_board
   puts lines
   puts spaces
 end
-
